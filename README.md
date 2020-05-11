@@ -1,4 +1,4 @@
 # COVID19-VentilatorAlarm
 A 3D Printable and Arduino-based Alarm System for monitoring Ventilator Airflow
 
-![](Schematic+Parts.png)
+![](images/Schematic+Parts.png)
