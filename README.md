@@ -9,6 +9,8 @@ A 3D Printable and Arduino-based Alarm System for monitoring Ventilator Airflow
 
 ![](Pictures/Top_View_(With_Cover).PNG) ![](Pictures/Side_View_(With_Cover).PNG) ![](Pictures/Bottom_View_(With_Cover).PNG) 
 
+![](Pictures/Circuit_Tinkercad.PNG)
+
 How to Make the Alarm System:
 1) Purchase all electronic components listed in the Required_Parts Folder
 2) Download .STL files from the 3D_Printed_Parts Folder
