@@ -12,7 +12,6 @@ How to Make the Alarm System:
 
 6) Contact me at knf37@cornell.edu for any questions
 
-![](Required_Parts/Parts_Required.PNG)
 ![](Pictures/Alarm+Tube.PNG)
 
 ![](Pictures/Schematic.PNG)
