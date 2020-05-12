@@ -17,24 +17,26 @@
 // 2) Determine the maximum and minimum voltage of that data
 // 3) Set the threshold voltage to .75 * Max and .25 * (Min+1) (to avoid multiplying by 0)
 
-// void easierMoniter(){
+// void loop(){
+// Ensure that healthy breaths are occuring
 // 1) Read data from past 10 seconds (dont record in list)
 // 2) Determine the maximum voltage of that data
-// If max = .75* Max then alarm... else repeat
+// If max < .75*UpperMax if max > 1.5*LowerMax then alarm, else repeat
 
 /*
-  Attach the center pin of a potentiometer to pin
+  Attach the center pin of a the MPX pressure sensor to pin
   A0, and the outside pins to +5V and ground.
 */
 
-int sensorPin = A0;       // select the input pin for the sensor
-int alarmPin = 8;
-int buttonPin = 2;
-int counter = 10;
-bool buttonState = false;
-int sensorValue = 0;
-int thresholdMax = 0;
-int upperThresholdMax = 0;
+// Pin assignments
+
+int sensorPin = A0;         // MPX Pressure sensor pin
+int alarmPin = 8;			      // Piezo Pin
+int buttonPin = 2;			    // Pushbutton Pin
+bool buttonState = false;   // Variable for state of pushbutton
+int sensorValue = 0;		    // Reading from pressure sensor
+int thresholdMax = 0;		    // Lower threshold value for breath 
+int upperThresholdMax = 0;	// Upper threshold value for breath
 int minSensorValue = 1023;
 int maxSensorValue = 0;
 
