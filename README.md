@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 ![](Pictures/Top_View_(With_Cover).PNG) ![](Pictures/Side_View_(With_Cover).PNG) ![](Pictures/Bottom_View_(With_Cover).PNG) 
 
-# Code Simulated Using Autodesk Tinkercad
+#                             Code Simulated Using Autodesk Tinkercad
 ![](Pictures/Circuit_Tinkercad1.PNG)
 
 ## How to Make the Alarm System:
@@ -22,7 +22,7 @@ ________________________________________________________________________________
 ### 4) Assemble the plastic and electric parts to specification as seen in the Pictures Folder
 ### 5) Download the code from the Arduino_Code Folder and upload it to the Arduino Board
 
-6) Contact me at knf37@cornell.edu for any questions
+### 6) Contact me at knf37@cornell.edu for any questions
 
 ![](Pictures/Title_Overview.PNG)
 
