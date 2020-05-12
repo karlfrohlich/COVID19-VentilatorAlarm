@@ -14,4 +14,4 @@ How to Make the Alarm System:
 
 ![](Pictures/Alarm+Tube.PNG)
 
-![](Pictures/Top_View.PNG) ![](Pictures/Side_View.PNG) ![](Pictures/Botton_View.PNG) 
+![](Pictures/Top_View.PNG) ![](Pictures/Side_View.PNG) ![](Pictures/Bottom_View.PNG) 
