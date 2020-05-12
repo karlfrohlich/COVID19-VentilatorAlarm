@@ -7,7 +7,9 @@ ________________________________________________________________________________
 
 ![](Pictures/Top_View.PNG) ![](Pictures/Side_View.PNG) ![](Pictures/Bottom_View.PNG) 
 
-   ![](Pictures/Alarm+Tube.PNG)
+![](Pictures/Pipe_Cross_Section.PNG)
+
+![](Pictures/Alarm+Tube.PNG)
 
 ![](Pictures/Top_View_(With_Cover).PNG) ![](Pictures/Side_View_(With_Cover).PNG) ![](Pictures/Bottom_View_(With_Cover).PNG) 
 
