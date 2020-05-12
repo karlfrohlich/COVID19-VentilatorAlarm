@@ -1,4 +1,3 @@
-# COVID19-VentilatorAlarm
 ![](Pictures/Title1.PNG)
 ________________________________________________________________________________________________________________________________
 
@@ -12,6 +11,8 @@ ________________________________________________________________________________
 ![](Pictures/Alarm+Tube.PNG)
 
 ![](Pictures/Top_View_(With_Cover).PNG) ![](Pictures/Side_View_(With_Cover).PNG) ![](Pictures/Bottom_View_(With_Cover).PNG) 
+
+#Code Simulated Using Autodesk Tinkercad
 
 ![](Pictures/Circuit_Tinkercad1.PNG)
 
