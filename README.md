@@ -11,3 +11,5 @@ How to Make the Alarm System:
 5) Download the code from the Arduino_Code Folder and upload it to the Arduino Board
 
 6) Contact me at knf37@cornell.edu for any questions
+
+![](Required_Parts/Parts_Required.PNG)
