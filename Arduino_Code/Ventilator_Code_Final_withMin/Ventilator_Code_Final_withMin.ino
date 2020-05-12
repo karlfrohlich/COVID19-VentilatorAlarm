@@ -37,6 +37,7 @@ bool buttonState = false;   // Variable for state of pushbutton
 int sensorValue = 0;		    // Reading from pressure sensor
 int thresholdMax = 0;		    // Lower threshold value for breath 
 int upperThresholdMax = 0;	// Upper threshold value for breath
+int counter = 10;           // Currently unimplimented but used to increase the silence delay after pushing the button
 int minSensorValue = 1023;
 int maxSensorValue = 0;
 
