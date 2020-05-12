@@ -15,4 +15,4 @@ How to Make the Alarm System:
 ![](Required_Parts/Parts_Required.PNG)
 ![](Pictures/Alarm+Tube.PNG)
 
-![](COVID19-VentilatorAlarm/Pictures/Schematic.PNG)
+![](Pictures/Schematic.PNG)
