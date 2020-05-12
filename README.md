@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 ![](Pictures/Top_View_(With_Cover).PNG) ![](Pictures/Side_View_(With_Cover).PNG) ![](Pictures/Bottom_View_(With_Cover).PNG) 
 
-#                             Code Simulated Using Autodesk Tinkercad
+# Code Simulated Using Autodesk Tinkercad (See Code folder)
 ![](Pictures/Circuit_Tinkercad1.PNG)
 
 ## How to Make the Alarm System:
