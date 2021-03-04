@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 ![](Pictures/Schematic+Parts.PNG)
 
-![](Pictures/Top_View.PNG) ![](Pictures/Side_View.PNG) ![](Pictures/Bottom_View.PNG) 
+![](Pictures/Top_View.PNG)![](Pictures/Side_View.PNG)![](Pictures/Bottom_View.PNG) 
 
 ![](Pictures/Pipe_Cross_Section.PNG)
 
